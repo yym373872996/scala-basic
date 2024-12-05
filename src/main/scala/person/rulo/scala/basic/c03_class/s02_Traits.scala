@@ -1,8 +1,8 @@
-package person.rulo.scala.basic.c04_trait
+package person.rulo.scala.basic.c03_class
 
 import scala.collection.mutable.ArrayBuffer
 
-object s01_Traits {
+object s02_Traits {
 
   def main(args: Array[String]): Unit = {
     // 使用泛型和抽象方法定义一个特质
